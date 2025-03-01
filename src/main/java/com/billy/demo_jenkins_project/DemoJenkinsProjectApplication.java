@@ -14,4 +14,7 @@ public class DemoJenkinsProjectApplication {
 		return a + b;
 	}
 
+	public static int subtractNumbers(int a, int b){
+		return a - b;
+	}
 }
